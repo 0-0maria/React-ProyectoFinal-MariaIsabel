@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./components/Layout";
-import Inicio from "./pages/Inicio";
+import Inicio from "./pages/inicio";
 import Escenario from "./pages/Escenario";
 import Productos from "./pages/Productos";
 import Contacto from "./Contacto";
